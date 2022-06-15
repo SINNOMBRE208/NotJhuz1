@@ -5,7 +5,7 @@ class Welcomer extends Base {
 
     /**
      * Welcome image builder
-     * @see https://www.discord-canvas.net/functions/welcome
+     * @see 
      * @example
      * const card = new canvacord.Welcomer()
             .setUsername("Snowflake")
